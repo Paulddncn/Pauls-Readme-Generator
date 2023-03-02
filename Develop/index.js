@@ -109,7 +109,7 @@ const generateREADME = ({ name, description, table, installation, usage, license
 
         *${email}
         
-        link to video: git@github.com:Paulddncn/Pauls-Readme-Generator.git`
+        link to video: https://drive.google.com/file/d/1BgtTeuDS03ZpM2Nt2bIP06RHNWU4u22n/view`
     ;
 
 const init = () => {
